@@ -113,22 +113,12 @@ Based on the insights from the models, businesses can:
 - Improve fraud prevention strategies by understanding patterns in fraudulent transactions.
 - Explore additional features that may have predictive power or engineer new features from the additional dataframe that provide more information about the target variable to get higher R-squares score.
 
-| Folder  | File |
-| ------------- | ------------- |
-| [Python&SQL](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Python%26SQL)  | [Cleaning_part.ipynb](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/Cleaning_part.ipynb) | Jupyter notebook - the process of cleaning and transforming the original data and exporting final csv files. |
-| | [Content_based_recommendation.ipynb](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/Content_based_recommendation.ipynb) | Jupyter notebook - modeling and evaluation of Content-based Recommendation. |
-| | [Collaborative_recommendation.ipynb](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/Collaborative_recommendation.ipynb) | Jupyter notebook - modeling and evaluation of Collaborative Recommendation. |
-| | [Exploratory_analysis.ipynb](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/Exploratory_analysis.ipynb) | Jupyter notebook - some Data Exploration on Python. |
-| | [SQL_connection.ipynb](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/SQL_connection.ipynb) | Jupyter notebook - setting connection with SQL and exporting the data. |
-| | [Queries.sql](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/Queries.sql) | MySQL - queries to count some values and extract useful data for Tableau. |
-| [Python&SQL/data](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Python%26SQL/data) | | Csv files of raw and final datasets. |
-| [Streamlit](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Streamlit) | | Pycharm files to execute on Streamlit.|
-| | [streamlit_demo.png](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Streamlit/streamlit_demo.png) | Image file of the Streamlit App.|
-| [Tableau](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Tableau) | [Movies_Final_Project.twbx](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Tableau/Movies_Final_Project.twbx)| Tableau - includes worksheets, dashboards and the story of visualizations.|
-| | [README.md](https://public.tableau.com/app/profile/hajar1648/viz/Movies_Final_Project/TheStory) | Link to online version of the story.|
-| [Main](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION)| [Movie_Project_Presentation.key](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Movie_Project_Presentation.key) | Keynote(for Mac) file of project presentation.|
-| | [project_workflow.png](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/project_workflow.png) | Image of Jira Software project planning.|
-
+## Working Files
+| File | Description |
+| ------------- |------------- |
+| [Fraud Prediction.ipynb](https://github.com/rmaryam42/Sergii-Rosi-Final-Project/blob/main/Fraud%20Prediction.ipynb) [Portfolio_analisys_SQL.sql](https://github.com/rmaryam42/Sergii-Rosi-Final-Project/blob/main/Portfolio_analisys_SQL.sql) [Fraud Prediction.ipynb](https://github.com/rmaryam42/Sergii-Rosi-Final-Project/blob/main/Fraud%20Prediction.ipynb)| Jupyter notebook and SQL - the process of cleaning and transforming the original data and exporting final csv files. |
+| [Fraud Prediction.ipynb](https://github.com/rmaryam42/Sergii-Rosi-Final-Project/blob/main/Fraud%20Prediction.ipynb) | Jupyter notebook - modeling and evaluation of Last Payment Amount. |
+| [README.md](https://github.com/rmaryam42/Sergii-Rosi-Final-Project/blob/main/README.md) | Link to online version of the working processes.|
 
 ## Presentation
 | Folder  | File |
