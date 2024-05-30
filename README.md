@@ -27,8 +27,8 @@ Since all parts of the credit portfolio information were manually collected, inv
 ## First Database
 For initiating the actual research, the cleaned databases containing the following information were used:
 
-1. **CreateDate**: Represents the date of order registration by the client in the company's internal records (data type - datetime64[ns])
-2. **InvoiceDate**: Represents the date of invoice creation in the company's internal records (data type - datetime64[ns])
+1. **CreateDate**: Represents the date of order registration by the client in the company's internal records
+2. **InvoiceDate**: Represents the date of invoice creation in the company's internal records
 3. **ClNumber**: Represents the unique client identifier
 4. **Portfolio**: Represents the source of credit funding
 5. **Total**: Represents the total cost of the equipment purchased by the client
